@@ -67,7 +67,7 @@ function AboutPage() {
             </h2>
             <span className="rule-gold mt-6" />
             <p className="mt-6 leading-relaxed text-muted-foreground">
-              Laar Restaurant &amp; Fast Food is located on Pir Luar Road, near Shaheed Benazir
+              Laar Restaurant &amp; Fast Food is located on Pir Luari Road, near Shaheed Benazir
               Bhutto Chowk in Badin, and is also known locally as Gym Khana Badin.
             </p>
             <p className="mt-4 leading-relaxed text-muted-foreground">
