@@ -11,12 +11,12 @@ export const Route = createFileRoute("/contact")({
       {
         name: "description",
         content:
-          "Contact Laar Restaurant & Fast Food, Gym Khana Badin — Pir Luar Road near Shaheed Benazir Bhutto Chowk, Badin. Phone numbers, email and directions.",
+          "Contact Laar Restaurant & Fast Food, Gym Khana Badin — Pir Luari Road near Shaheed Benazir Bhutto Chowk, Badin. Phone numbers, email and directions.",
       },
       { property: "og:title", content: "Contact & Location — Laar Restaurant, Badin" },
       {
         property: "og:description",
-        content: "Find Laar Restaurant & Fast Food on Pir Luar Road, Badin. Call to place your order.",
+        content: "Find Laar Restaurant & Fast Food on Pir Luari Road, Badin. Call to place your order.",
       },
       { property: "og:url", content: "/contact" },
     ],

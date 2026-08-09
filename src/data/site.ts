@@ -8,7 +8,7 @@ export const site = {
   shortName: "Laar Restaurant",
   tagline: "Restaurant & Fast Food",
   secondaryIdentity: "Gym Khana Badin",
-  address: "Pir Luar Road Near Shaheed Benazir Bhutto Chowk, Badin",
+  address: "Pir Luari Road Near Shaheed Benazir Bhutto Chowk, Badin",
   city: "Badin, Sindh",
   country: "Pakistan",
   email: "resturentlaarr@gmail.com",
