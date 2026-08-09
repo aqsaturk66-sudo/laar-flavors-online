@@ -41,7 +41,7 @@ export const Route = createFileRoute("/")({
 
 const featured = [
   { name: "Chicken White Karahi", price: 2200, unit: "per kg", category: "Desi Food", image: karahiImg },
-  { name: "Chicken Boneless Handi", price: 3000, unit: "per kg", category: "Desi Food", image: karahiImg },
+  { name: "Chicken Boneless Handi", price: 3000, unit: "per kg", category: "Desi Food", image: handiImg },
   { name: "Bombay Biryani", price: 500, unit: "", category: "Biryani & Pulao", image: biryaniImg },
   { name: "Chicken Fried Rice", price: 500, unit: "", category: "Chinese", image: chineseImg },
   { name: "Malai Boti", price: 1500, unit: "", category: "Bar B.Q", image: bbqImg },
