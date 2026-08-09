@@ -3,6 +3,7 @@ import { ArrowRight, MapPin, Phone, UtensilsCrossed } from "lucide-react";
 
 import heroImg from "@/assets/hero.jpg";
 import karahiImg from "@/assets/karahi.jpg";
+import handiImg from "@/assets/handi.jpg";
 import biryaniImg from "@/assets/biryani.jpg";
 import bbqImg from "@/assets/bbq.jpg";
 import pizzaImg from "@/assets/pizza.jpg";
