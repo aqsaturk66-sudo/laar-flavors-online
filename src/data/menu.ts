@@ -165,20 +165,6 @@ export const menu: MenuCategory[] = [
     ],
   },
   {
-    id: "juice",
-    name: "Juice",
-    groups: [
-      {
-        items: [
-          { name: "Fruit Juice", price: null },
-          { name: "Milk Shake", price: null },
-          { name: "Lassi", price: null },
-          { name: "Milk Bottle", price: null },
-        ],
-      },
-    ],
-  },
-  {
     id: "pizza",
     name: "Pizza",
     priceTable: [
